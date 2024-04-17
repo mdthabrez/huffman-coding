@@ -35,7 +35,10 @@ Implemented as a binary heap, it ensures that the characters with the lowest fre
 
 It is a binary tree used in Huffman coding, where characters with higher frequencies are closer to the root, enabling efficient encoding and decoding of data by assigning shorter codes to more frequent characters. It dynamically organizes characters based on their frequencies, ensuring optimal compression while preserving the original data.
 
+## What did I learn in this project?
 
+- Implementing Advanced Data Structures like Graphs and Min Heap using C/C++.
+- Encoding and Decoding Methodologies using Huffman Coding.
 
 ## 🔗 Contact
 Mohammed Thabrez G
